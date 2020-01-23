@@ -1,12 +1,10 @@
 ## Welcome to my blog!
 
-You can use the [editor on GitHub](https://github.com/Kevin-Wei-sudo/Jiangwen-Blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will post some questions every two weeks on this blog. Follow me!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. JAN 23: How to enhance the punch of action games?
 
 ```markdown
 Syntax highlighted code block
