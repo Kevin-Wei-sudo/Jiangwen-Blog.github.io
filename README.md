@@ -26,9 +26,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### My Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kevin-Wei-sudo/Jiangwen-Blog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+There is a link to my projects.
 
 ### Support or Contact
 
